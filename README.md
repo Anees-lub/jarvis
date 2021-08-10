@@ -3,7 +3,7 @@
 <a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/SPARROW-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Sparrow"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AKSHAY-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Sparrow"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ANEES-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/sparroo/jarvis/followers"><img title="Followers" src="https://img.shields.io/github/followers/sparroo?color=blue&style=flat-square"></a>
@@ -25,7 +25,7 @@
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/sparroo/jarvis
+> git clone https://github.com/Anees-lub/jarvis
 > cd jarvis
 > bash install.sh
 > npm start
@@ -34,7 +34,7 @@
 
 ## CONTACT ME <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`WhatsApp Number `](https://wa.me/+919947291867)
+* [`WhatsApp Number `](https://wa.me/+917356378949)
 * [`WhatsApp Group `](https://chat.whatsapp.com/I1xiHrlbW6X2Y7s1DzBLz4)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
