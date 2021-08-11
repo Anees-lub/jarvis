@@ -14,7 +14,7 @@
 </p>
 </details>
 
-### THANKS TO SPARROW
+### THANKS TO ANEES✔
 
 ### CLONE THIS PROJECT  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
@@ -25,7 +25,7 @@
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/Anees-lub/jarvis
+> git clone https://github.com/aneeslub/jarvis
 > cd jarvis
 > bash install.sh
 > npm start
