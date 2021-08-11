@@ -38,6 +38,6 @@
 * [`WhatsApp Group `](https://chat.whatsapp.com/I1xiHrlbW6X2Y7s1DzBLz4)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
-* [`SPARROW`]
+* [`ANEES`]
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
