@@ -121,14 +121,14 @@ const vcard = 'BEGIN:VCARD\n'
               + 'VERSION:3.0\n' 
               + 'FN:' + namaowner + 'ツ\n'
               + 'ORG: Owner' + namabot + ';\n'
-              + 'TEL;type=CELL;type=VOICE;waid=' + 919947291867 + ':+' + 919947291867 + '\n'//Add your number here
+              + 'TEL;type=CELL;type=VOICE;waid=' + 917356378949 + ':+' + 917356378949 + '\n'//Add your number here
               + 'END:VCARD' //
 
 const tulo = 'BEGIN:VCARD\n' 
               + 'VERSION:3.0\n' 
               + 'FN:RURIBOTZツ\n'
               + 'ORG:OwnerRURI;\n'
-              + 'TEL;type=CELL;type=VOICE;waid=919947291867:+919947291867\n'//Add your number here
+              + 'TEL;type=CELL;type=VOICE;waid=917356378949:+917356378949\n'//Add your number here
               + 'END:VCARD'
               
 //ini biarin aja
