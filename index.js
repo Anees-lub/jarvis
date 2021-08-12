@@ -1719,7 +1719,7 @@ if (!isVerify) return reply(aml.noregis)
 //MENU
                 case 'help':
 		        case 'menu':
-		        //menu by akshay
+		        //menu by Anees
                 if (!isVerify) return reply(aml.noregis)
                 if (isLimit(sender)) return reply(aml.limitend)
                 if (isBanned) return reply(aml.baned)
@@ -1771,10 +1771,10 @@ if (!isVerify) return reply(aml.noregis)
 ┊🎲!xox
 └───────────𔒝
 ┌───〔 *_ᴛʜᴀɴᴋs ᴛᴏ_* 〕
-┊🌟 𝙰𝙺𝚂𝙷𝙰𝚈
-┊🌟 𝙹𝚉𝙼𝙾𝙳𝚂
-┊🌟 𝙼𝙾𝙽𝙺𝙴𝚈
-┊🌟 sᴘⷮᴀⷷʀⷶʀⷨᴏᴡ𔒝
+┊🌟 ANEES♕
+┊🌟 TOXIC-ALIEN
+┊🌟 ᴀͥɴͭᴇᷤᴇᷟsͤ
+┊🌟 TOXIC BOT𔒝
 └───〔 _𝙹𝙰𝚁𝚅𝙸𝚂_ 〕`
 
 if (simple == true) Chan = `
@@ -1796,10 +1796,10 @@ if (simple == true) Chan = `
 ┊🎲!xox
 └───────────𔒝
 ┌───〔 *_ᴛʜᴀɴᴋs ᴛᴏ_* 〕
-┊🌟 𝙰𝙺𝚂𝙷𝙰𝚈
-┊🌟 𝙹𝚉𝙼𝙾𝙳𝚂
-┊🌟 𝙼𝙾𝙽𝙺𝙴𝚈
-┊🌟 sᴘⷮᴀⷷʀⷶʀⷨᴏᴡ𔒝
+┊🌟 ANEES♕
+┊🌟 TOXIC ALEIN
+┊🌟 ᴀͥɴͭᴇᷤᴇᷟsͤ
+┊🌟 TOXIC BOT𔒝
 └───〔 _𝙹𝙰𝚁𝚅𝙸𝚂_ 〕`
 Ruri.sendMessage(from, wew, image, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "productMessage":{"product":{"productImage":{"mimetype":"image/jpeg","height":736,"width":736,"jpegThumbnail":fs.readFileSync(`./lib/jarvis.jpg`)},"productId":"3937202479680283","title":"JARVIS","currencyCode":"IDR","priceAmount1000":"10000","productImageCount":1},"businessOwnerJid":"0@s.whatsapp.net"}}}, caption: Chan })
                     break
